@@ -5,8 +5,7 @@ This repository contains sample notebooks that show the capabilities of SASPy.  
 - [/User_contrib](https://github.com/sassoftware/saspy-examples/tree/master/User_contrib) contains Python Notebooks that were created by other users and submitted to our repository. 
 
 # Contributing
-The [Contributor Agreement](https://github.com/sassoftware/saspy-examples/blob/master/ContributorAgreement.txt) details on how to make contributions to this project. The [Contributing](https://github.com/sassoftware/saspy-examples/blob/master/CONTRIBUTING.
-md) file                                    
+The [Contributor Agreement](https://github.com/sassoftware/saspy-examples/blob/master/ContributorAgreement.txt) details on how to make contributions to this project. The [Contributing](https://github.com/sassoftware/saspy-examples/blob/master/CONTRIBUTING.md) file                                    
 explains                                                                                                                                                                                                
  the rules and conventions to follow while Contributing to this project. 
 
