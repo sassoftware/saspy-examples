@@ -6,7 +6,7 @@ This repository contains sample notebooks that show the capabilities of SASPy.  
 - [/Issue_examples](https://github.com/sassoftware/saspy-examples/tree/master/Issue_examples) contains Python Notebooks which reproduce Issues and/or their fixes.
 
 The first example to look through, which walks through many of the main features os SASPy is
-- [/saspy_example](https://github.com/sassoftware/saspy-examples/blob/master/SAS_contrib/saspy_example_github.ipynb)
+- [saspy_example](https://github.com/sassoftware/saspy-examples/blob/master/SAS_contrib/saspy_example_github.ipynb)
 
 # Contributing
 The [Contributor Agreement](https://github.com/sassoftware/saspy-examples/blob/master/ContributorAgreement.txt) details on how to make contributions to this project. The [Contributing](https://github.com/sassoftware/saspy-examples/blob/master/CONTRIBUTING
