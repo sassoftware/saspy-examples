@@ -1,3 +1,5 @@
+![224493-SASPy-logo-OL-01](https://user-images.githubusercontent.com/17710182/171252550-40a5b826-eb0b-435b-bce5-3485a6dc4ff3.png)
+
 # SASPy Examples
 ## Overview
 This repository contains sample notebooks that show the capabilities of SASPy.  Use these for learning and for validating your environment.  And contribute your own!
