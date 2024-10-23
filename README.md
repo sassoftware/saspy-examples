@@ -11,14 +11,11 @@ The first example to look through, which walks through many of the main features
 - [saspy_example](https://github.com/sassoftware/saspy-examples/blob/master/SAS_contrib/saspy_example_github.ipynb)
 
 # Contributing
-The [Contributor Agreement](https://github.com/sassoftware/saspy-examples/blob/master/ContributorAgreement.txt) details on how to make contributions to this project. The [Contributing](https://github.com/sassoftware/saspy-examples/blob/master/CONTRIBUTING
-.md) file explains the rules and conventions to follow while Contributing to this project. 
+The [Contributor Agreement](https://github.com/sassoftware/saspy-examples/blob/master/ContributorAgreement.txt) details on how to make contributions to this project. The [Contributing](https://github.com/sassoftware/saspy-examples/blob/master/CONTRIBUTING.md) file explains the rules and conventions to follow while Contributing to this project. 
 
 # Licensing
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at [LICENSE.txt](https://github.com/sassoftware/saspy-examples/blob/master/LICENSE)
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language govern
-
-ing permissions and limitations under the License.
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at [LICENSE.txt](https://github.com/sassoftware/saspy-examples/blob/master/LICENSE).
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 # Additional Resources
 - [Python Website](http://www.python.org/) 
